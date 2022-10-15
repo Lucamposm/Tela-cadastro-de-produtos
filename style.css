@@ -1,0 +1,19 @@
+h1{
+    color: black;
+}
+
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(219,157,157), rgb(114,114,231));
+    background-attachment: fixed;
+}
+input{
+    width: 60%;
+    text-align: center;
+}
+.titulo{
+    font-size: 350%;
+}
+.subtitulo{
+    font-size: 175%;
+}
